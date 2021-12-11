@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Guests", "wonder", [146, 113, 253], "Guests"],
+		["Mygoal", "nope", [146, 113, 253], "Mygoal"],
+		["Keypoint", "wondernope", [146, 113, 253], "Keypoint"]
+	],
+
+	"weekCharacters": [
+		"nope",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "wonder",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"showcutscene": false,
+	"currentcutscene": "template"
+}
